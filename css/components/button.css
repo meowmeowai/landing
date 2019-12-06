@@ -1,0 +1,21 @@
+.btn-blue
+{
+	background: #6D71DD;
+	padding: 10px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Bebas Neue', cursive;
+  text-align: center;
+
+
+  /*display: inline-block;
+  border-radius: 3px;
+  padding: 0.5rem 0;
+  margin: 0.5rem 1rem;
+  width: 11rem;
+  background: transparent;
+  color: white;
+  border: 2px solid white;*/
+
+}

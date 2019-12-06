@@ -1,0 +1,64 @@
+.banner {
+  /* 1. Set a background image */
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/london.jpg);   
+    color: white;
+  /* 2. Make the background image cover the banner div */
+	  background-size: cover;  
+    padding: 280px 0px;    
+  /* 3. Center the image */
+	/*background-position: center;
+	padding-top: ;
+	padding-bottom: ;
+	/*
+	background-image:
+    /* Transparent gradient above 
+    linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%),
+    /* Then image below 
+    url('images/background.jpg');*/
+}
+/*.banner-with-flat-filter {
+  background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url('images/background.jpg');
+}*/
+.banner2
+{
+  background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/dog.jpg);   
+    color: white;
+  
+    background-size: cover;  
+    padding: 250px 0px;    
+}
+.banner3
+{
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/galaxy.jpg);   
+    color: white;
+  
+    background-size: cover;  
+    padding: 280px 0px;    
+}
+
+.banner4
+{
+    background-image: linear-gradient(-225deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.1) 50%), url(../../images/light.jpg);   
+    color: white;
+  
+    background-size: cover;  
+    padding: 280px 0px;    
+}
+
+.banner h1 {
+  color: white;
+  font-size: 45px;
+  
+}
+.banner h2 {
+  color: white;
+  font-size: 28px;
+  font-weight: lighter;
+	opacity: 0.8;
+  margin-bottom: 100px;
+  
+}
+.text-center 
+{ /* select all elements with class="justify" */
+  text-align: center;
+}

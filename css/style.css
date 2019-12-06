@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Baskervville|Bebas+Neue|Comfortaa|Sulphur+Point&display=swap")
+
+
+@import url("components/container.css");
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/avatar.css");
+@import url("components/card.css");
+@import url("components/container.css");
+
+
+
+
+
+body
+{
+  /*font-family: 'Comfortaa', cursive;
+  font-family: 'Amatic SC', cursive;
+  font-family: 'Bebas Neue', cursive;
+  font-family: 'Sulphur Point', sans-serif;
+  font-family: 'Baskervville', serif;*/
+  text-align: justify;
+  font-family: 'Amatic SC', cursive;
+  font-size: 18px;
+  font-weight: lighter;
+  margin: 0px;
+  
+}
+h1
+{
+  font-family: 'Baskervville', serif;
+  font-size: 30px;
+  font-weight: lighter;
+  
+}
+
+h2
+{
+	font-family: 'Sulphur Point', sans-serif;
+	font-size: 22px;
+  font-weight: lighter;
+  
+}
+a
+{
+	text-decoration: none;
+}
